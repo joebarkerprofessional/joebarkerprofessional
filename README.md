@@ -21,7 +21,7 @@ I'm a Criminology & Data Analytics student at the University of Manchester, pass
 ---
 
 ## 🔹 Connect
-- [LinkedIn](your-linkedin-url)  
-- [CV (PDF link if you want to add one later)]  
+https://www.linkedin.com/in/joe-barker-848342273/
+  
 
 ---
